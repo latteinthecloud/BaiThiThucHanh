@@ -42,39 +42,21 @@ namespace WebApplication1.Areas.Admin.Controllers
         }
 
         // GET action to display the form for adding a new product
-        [Route("ThemSanPhamMoi")]
+        [Route("ThemsanPhamMoi")]
         [HttpGet]
         public IActionResult ThemsanPhamMoi()
         {
-            var model = new TDanhMucSp();
+            
             // Populate dropdowns for product properties
+            
             ViewBag.MaChatLieu = new SelectList(db.TChatLieus.ToList(), "MaChatLieu", "ChatLieu");
             ViewBag.MaHangSx = new SelectList(db.THangSxes.ToList(), "MaHangSX", "HangSX");
             ViewBag.MaNuocSX = new SelectList(db.TQuocGia.ToList(), "MaNuoc", "TenNuoc");
             ViewBag.MaLoai = new SelectList(db.TLoaiSps.ToList(), "MaLoai", "Loai");
             ViewBag.MaDt = new SelectList(db.TLoaiDts.ToList(), "MaDt", "TenLoai");
 
-            return View(model);
+            return View();
         }
 
-        // POST action to handle form submission for adding a new product
-        [Route("ThemSanPhamMoi")]
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public IActionResult ThemSanPhamMoi(TDanhMucSp sanPham)
-        {
-            // Validate the model state
-            if (ModelState.IsValid)
-            {
-                db.TDanhMucSps.Add(sanPham);
-                db.SaveChanges();
-
-                // Redirect to product list after successful addition
-                return RedirectToAction("DanhMucSanPham");
-            }
-
-            // Return the view with current product data if validation fails
-            return View(sanPham);
-        }
     }
 }
