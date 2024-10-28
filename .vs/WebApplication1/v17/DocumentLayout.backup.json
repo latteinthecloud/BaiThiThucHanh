@@ -1,0 +1,459 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\views\\home\\chitietsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\chitietsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\views\\shared\\partialsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\partialsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\productdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\viewmodels\\homeproductdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\homeproductdetailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\views\\shared\\components\\loaispmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\components\\loaispmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\viewcomponents\\loaispmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewcomponents\\loaispmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\repository\\loaispr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\loaispr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\repository\\iloaispr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\repository\\iloaispr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\models\\tdanhmucsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\tdanhmucsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\models\\tloaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\tloaisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\models\\qlbanvalicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\qlbanvalicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|d:\\webapplication1\\webapplication1\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCE1ECC8-2E4D-4DFA-B42C-3121815C9A44}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 161,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThemsanPhamMoi.cshtml",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\HomeAdmin\\ThemsanPhamMoi.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\HomeAdmin\\ThemsanPhamMoi.cshtml",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\HomeAdmin\\ThemsanPhamMoi.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\HomeAdmin\\ThemsanPhamMoi.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T04:08:01.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T03:14:46.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAIwA8BAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T03:04:57.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T11:58:28.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T03:18:53.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:29:57.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebApplication1\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebApplication1\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-28T03:03:26.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChiTietSanPham.cshtml",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Views\\Home\\ChiTietSanPham.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\ChiTietSanPham.cshtml",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Views\\Home\\ChiTietSanPham.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\ChiTietSanPham.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAHQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T02:12:49.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DanhMucSanPham.cshtml",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T03:26:15.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PartialSanPham.cshtml",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Views\\Shared\\PartialSanPham.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\PartialSanPham.cshtml",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Views\\Shared\\PartialSanPham.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\PartialSanPham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T02:32:45.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductDetail.cshtml",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\ProductDetail.cshtml",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Views\\Home\\ProductDetail.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\ProductDetail.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T02:55:27.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-28T00:27:43.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SanPhamTheoLoai.cshtml",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T01:41:30.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeProductDetailViewModel.cs",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\ViewModels\\HomeProductDetailViewModel.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\HomeProductDetailViewModel.cs",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\ViewModels\\HomeProductDetailViewModel.cs",
+              "RelativeToolTip": "WebApplication1\\ViewModels\\HomeProductDetailViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:41:05.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoaiSpMenuViewComponent.cs",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "RelativeToolTip": "WebApplication1\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:29:05.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-28T00:47:58.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoaiSpR.cs",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Repository\\LoaiSpR.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\LoaiSpR.cs",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Repository\\LoaiSpR.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\LoaiSpR.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:20:30.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ILoaiSpR.cs",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Repository\\ILoaiSpR.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Repository\\ILoaiSpR.cs",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Repository\\ILoaiSpR.cs",
+              "RelativeToolTip": "WebApplication1\\Repository\\ILoaiSpR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAABBwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T14:01:12.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T11:01:10.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T12:07:31.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T00:53:28.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TLoaiSp.cs",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Models\\TLoaiSp.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\TLoaiSp.cs",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Models\\TLoaiSp.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\TLoaiSp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:59:55.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "QlbanVaLiContext.cs",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Models\\QlbanVaLiContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\QlbanVaLiContext.cs",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Models\\QlbanVaLiContext.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\QlbanVaLiContext.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:59:25.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TDanhMucSp.cs",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Models\\TDanhMucSp.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\TDanhMucSp.cs",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Models\\TDanhMucSp.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\TDanhMucSp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T12:58:51.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_LayoutIndex.cshtml",
+              "DocumentMoniker": "D:\\WebApplication1\\WebApplication1\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ToolTip": "D:\\WebApplication1\\WebApplication1\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T12:55:18.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
